@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import Script from "next/script";
 import MobileNav from "@/components/MobileNav";
+import { Analytics } from "@vercel/analytics/react";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -116,6 +117,7 @@ export default function RootLayout({
       <body
         className={`${inter.className} overflow-x-hidden bg-black text-gray-100`}
       >
+        <Analytics />
         <div className="relative flex min-h-screen flex-col">
           <MobileNav />
           <main className="flex-1">{children}</main>
