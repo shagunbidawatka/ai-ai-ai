@@ -3,6 +3,7 @@ import { ParticlesBackground } from "@/components/animations/particles-backgroun
 import { CategoryHeader } from "@/components/animations/category-header";
 import type { Metadata } from "next";
 import Link from "next/link";
+import { NewsletterForm } from "@/components/newsletter-form";
 
 // Define news article interface
 interface NewsArticle {
@@ -226,9 +227,9 @@ export default async function AINewsPage() {
             </div>
           )}
         </div>
-
+        <NewsletterForm />
         {/* Newsletter Signup */}
-        <div className="mt-10 sm:mt-16 bg-gradient-to-r from-purple-900/30 to-blue-900/30 border border-gray-800 rounded-xl p-4 sm:p-8">
+        {/* <div className="mt-10 sm:mt-16 bg-gradient-to-r from-purple-900/30 to-blue-900/30 border border-gray-800 rounded-xl p-4 sm:p-8">
           <h3 className="text-xl sm:text-2xl font-bold text-white mb-2 sm:mb-4">
             Never Miss an AI Update
           </h3>
@@ -253,7 +254,7 @@ export default async function AINewsPage() {
           <p className="text-xs sm:text-sm text-gray-400 mt-3 sm:mt-4">
             We respect your privacy. Unsubscribe at any time.
           </p>
-        </div>
+        </div> */}
       </div>
     </div>
   );

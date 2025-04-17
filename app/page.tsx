@@ -21,10 +21,10 @@ export default function Home() {
       <div className="relative isolate px-4 sm:px-6 pt-10 sm:pt-14 lg:px-8">
         <div className="mx-auto max-w-2xl py-16 sm:py-24 lg:py-32">
           <div className="text-center">
-            <CyberHeader
-              text="Discover the Best AI Tools"
-              className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl text-white"
-            />
+            <div className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl text-white font-mono font-bold tracking-tight">
+              <span>Discover the Best</span>{" "}
+              <span className="whitespace-nowrap">AI</span> <span>Tools</span>
+            </div>
             <GlowingText
               texts={[
                 "Work smarter with AI",
@@ -70,24 +70,29 @@ export default function Home() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, delay: 0.1 }}
             >
-              <CyberpunkCard className="h-full">
+              <CyberpunkCard className="h-full group overflow-hidden border-2 border-blue-900/50 hover:border-blue-500/70 transition-all duration-300 hover:shadow-lg hover:shadow-blue-500/20">
                 <Link
                   href="/category/developers"
                   className="flex flex-col h-full"
                 >
-                  <div className="h-12 w-12 rounded-full bg-blue-900 flex items-center justify-center text-blue-400 mb-4">
-                    <Code className="h-6 w-6" />
+                  <div className="p-6 flex-1">
+                    <div className="h-14 w-14 rounded-xl bg-gradient-to-br from-blue-900 to-blue-700 flex items-center justify-center shadow-lg mb-5 transform group-hover:scale-110 transition-transform duration-300">
+                      <Code className="h-7 w-7 text-blue-300" />
+                    </div>
+                    <h3 className="text-lg sm:text-xl font-bold mb-3 text-white group-hover:text-blue-400 transition-colors">
+                      For Developers
+                    </h3>
+                    <p className="text-sm sm:text-base text-gray-300 mb-4 leading-relaxed">
+                      AI tools for coding, development, and software
+                      engineering. Boost your productivity and code quality.
+                    </p>
                   </div>
-                  <h3 className="text-lg sm:text-xl font-semibold mb-2 text-white group-hover:text-primary transition-colors">
-                    For Developers
-                  </h3>
-                  <p className="text-sm sm:text-base text-gray-300 mb-4">
-                    AI tools for coding, development, and software engineering.
-                  </p>
-                  <span className="inline-flex items-center text-sm font-medium text-primary group-hover:underline mt-auto">
-                    View Tools
-                    <ArrowRight className="ml-1 h-4 w-4 transition-transform group-hover:translate-x-1" />
-                  </span>
+                  <div className="mt-auto px-6 py-4 border-t border-blue-900/30 bg-blue-900/10 group-hover:bg-blue-900/20 transition-colors">
+                    <span className="inline-flex items-center text-sm font-medium text-blue-400 group-hover:text-blue-300">
+                      View Tools
+                      <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
+                    </span>
+                  </div>
                 </Link>
               </CyberpunkCard>
             </motion.div>
@@ -98,24 +103,29 @@ export default function Home() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, delay: 0.2 }}
             >
-              <CyberpunkCard className="h-full">
+              <CyberpunkCard className="h-full group overflow-hidden border-2 border-green-900/50 hover:border-green-500/70 transition-all duration-300 hover:shadow-lg hover:shadow-green-500/20">
                 <Link
                   href="/category/creators"
                   className="flex flex-col h-full"
                 >
-                  <div className="h-12 w-12 rounded-full bg-green-900 flex items-center justify-center text-green-400 mb-4">
-                    <Paintbrush className="h-6 w-6" />
+                  <div className="p-6 flex-1">
+                    <div className="h-14 w-14 rounded-xl bg-gradient-to-br from-green-900 to-green-700 flex items-center justify-center shadow-lg mb-5 transform group-hover:scale-110 transition-transform duration-300">
+                      <Paintbrush className="h-7 w-7 text-green-300" />
+                    </div>
+                    <h3 className="text-lg sm:text-xl font-bold mb-3 text-white group-hover:text-green-400 transition-colors">
+                      For Creators
+                    </h3>
+                    <p className="text-sm sm:text-base text-gray-300 mb-4 leading-relaxed">
+                      AI tools for art, design, video, and content creation.
+                      Amplify your creative potential.
+                    </p>
                   </div>
-                  <h3 className="text-lg sm:text-xl font-semibold mb-2 text-white group-hover:text-primary transition-colors">
-                    For Creators
-                  </h3>
-                  <p className="text-sm sm:text-base text-gray-300 mb-4">
-                    AI tools for art, design, video, and content creation.
-                  </p>
-                  <span className="inline-flex items-center text-sm font-medium text-primary group-hover:underline mt-auto">
-                    View Tools
-                    <ArrowRight className="ml-1 h-4 w-4 transition-transform group-hover:translate-x-1" />
-                  </span>
+                  <div className="mt-auto px-6 py-4 border-t border-green-900/30 bg-green-900/10 group-hover:bg-green-900/20 transition-colors">
+                    <span className="inline-flex items-center text-sm font-medium text-green-400 group-hover:text-green-300">
+                      View Tools
+                      <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
+                    </span>
+                  </div>
                 </Link>
               </CyberpunkCard>
             </motion.div>
@@ -126,24 +136,29 @@ export default function Home() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, delay: 0.3 }}
             >
-              <CyberpunkCard className="h-full">
+              <CyberpunkCard className="h-full group overflow-hidden border-2 border-red-900/50 hover:border-red-500/70 transition-all duration-300 hover:shadow-lg hover:shadow-red-500/20">
                 <Link
                   href="/category/marketing"
                   className="flex flex-col h-full"
                 >
-                  <div className="h-12 w-12 rounded-full bg-red-900 flex items-center justify-center text-red-400 mb-4">
-                    <Megaphone className="h-6 w-6" />
+                  <div className="p-6 flex-1">
+                    <div className="h-14 w-14 rounded-xl bg-gradient-to-br from-red-900 to-red-700 flex items-center justify-center shadow-lg mb-5 transform group-hover:scale-110 transition-transform duration-300">
+                      <Megaphone className="h-7 w-7 text-red-300" />
+                    </div>
+                    <h3 className="text-lg sm:text-xl font-bold mb-3 text-white group-hover:text-red-400 transition-colors">
+                      For Marketing
+                    </h3>
+                    <p className="text-sm sm:text-base text-gray-300 mb-4 leading-relaxed">
+                      AI tools for copywriting, SEO, and marketing campaigns.
+                      Elevate your marketing strategies.
+                    </p>
                   </div>
-                  <h3 className="text-lg sm:text-xl font-semibold mb-2 text-white group-hover:text-primary transition-colors">
-                    For Marketing
-                  </h3>
-                  <p className="text-sm sm:text-base text-gray-300 mb-4">
-                    AI tools for copywriting, SEO, and marketing campaigns.
-                  </p>
-                  <span className="inline-flex items-center text-sm font-medium text-primary group-hover:underline mt-auto">
-                    View Tools
-                    <ArrowRight className="ml-1 h-4 w-4 transition-transform group-hover:translate-x-1" />
-                  </span>
+                  <div className="mt-auto px-6 py-4 border-t border-red-900/30 bg-red-900/10 group-hover:bg-red-900/20 transition-colors">
+                    <span className="inline-flex items-center text-sm font-medium text-red-400 group-hover:text-red-300">
+                      View Tools
+                      <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
+                    </span>
+                  </div>
                 </Link>
               </CyberpunkCard>
             </motion.div>
@@ -154,25 +169,29 @@ export default function Home() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, delay: 0.4 }}
             >
-              <CyberpunkCard className="h-full">
+              <CyberpunkCard className="h-full group overflow-hidden border-2 border-purple-900/50 hover:border-purple-500/70 transition-all duration-300 hover:shadow-lg hover:shadow-purple-500/20">
                 <Link
                   href="/category/productivity"
                   className="flex flex-col h-full"
                 >
-                  <div className="h-12 w-12 rounded-full bg-purple-900 flex items-center justify-center text-purple-400 mb-4">
-                    <Zap className="h-6 w-6" />
+                  <div className="p-6 flex-1">
+                    <div className="h-14 w-14 rounded-xl bg-gradient-to-br from-purple-900 to-purple-700 flex items-center justify-center shadow-lg mb-5 transform group-hover:scale-110 transition-transform duration-300">
+                      <Zap className="h-7 w-7 text-purple-300" />
+                    </div>
+                    <h3 className="text-lg sm:text-xl font-bold mb-3 text-white group-hover:text-purple-400 transition-colors">
+                      For Productivity
+                    </h3>
+                    <p className="text-sm sm:text-base text-gray-300 mb-4 leading-relaxed">
+                      AI tools for workflow automation, organization, and
+                      efficiency. Streamline your daily tasks.
+                    </p>
                   </div>
-                  <h3 className="text-lg sm:text-xl font-semibold mb-2 text-white group-hover:text-primary transition-colors">
-                    For Productivity
-                  </h3>
-                  <p className="text-sm sm:text-base text-gray-300 mb-4">
-                    AI tools for workflow automation, organization, and
-                    efficiency.
-                  </p>
-                  <span className="inline-flex items-center text-sm font-medium text-primary group-hover:underline mt-auto">
-                    View Tools
-                    <ArrowRight className="ml-1 h-4 w-4 transition-transform group-hover:translate-x-1" />
-                  </span>
+                  <div className="mt-auto px-6 py-4 border-t border-purple-900/30 bg-purple-900/10 group-hover:bg-purple-900/20 transition-colors">
+                    <span className="inline-flex items-center text-sm font-medium text-purple-400 group-hover:text-purple-300">
+                      View Tools
+                      <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
+                    </span>
+                  </div>
                 </Link>
               </CyberpunkCard>
             </motion.div>

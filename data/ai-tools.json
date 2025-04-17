@@ -248,7 +248,7 @@
       "id": "jasper",
       "name": "Jasper",
       "description": "AI writing assistant that helps create high-quality content for blogs, social media, and marketing.",
-      "logo": "https://placehold.co/600x400/dc2626/FFFFFF?text=Jasper",
+      "logo": "https://placehold.co/600x400/ff5a5f/FFFFFF?text=Jasper",
       "link": "https://www.jasper.ai",
       "tags": ["writing", "marketing", "content"]
     },
@@ -256,7 +256,7 @@
       "id": "copy-ai",
       "name": "Copy.ai",
       "description": "AI copywriting tool that generates high-converting marketing copy, product descriptions, and social media content.",
-      "logo": "https://placehold.co/600x400/dc2626/FFFFFF?text=Copy.ai",
+      "logo": "https://placehold.co/600x400/ff5a5f/FFFFFF?text=Copy.ai",
       "link": "https://www.copy.ai",
       "tags": ["copywriting", "marketing", "content"]
     },
@@ -264,7 +264,7 @@
       "id": "mailchimp-ai",
       "name": "Mailchimp Creative Assistant",
       "description": "AI-powered email marketing tool that helps create and optimize email campaigns.",
-      "logo": "https://placehold.co/600x400/dc2626/FFFFFF?text=Mailchimp",
+      "logo": "https://placehold.co/600x400/ff5a5f/FFFFFF?text=Mailchimp",
       "link": "https://mailchimp.com",
       "tags": ["email", "marketing", "automation"]
     },
@@ -272,7 +272,7 @@
       "id": "semrush-ai",
       "name": "Semrush Writing Assistant",
       "description": "AI-powered SEO writing tool that helps create optimized content for search engines.",
-      "logo": "https://placehold.co/600x400/dc2626/FFFFFF?text=Semrush",
+      "logo": "https://placehold.co/600x400/ff5a5f/FFFFFF?text=Semrush",
       "link": "https://www.semrush.com",
       "tags": ["SEO", "content", "marketing"]
     },
@@ -280,7 +280,7 @@
       "id": "hubspot-ai",
       "name": "HubSpot AI Tools",
       "description": "AI-powered marketing and sales tools for content creation and optimization.",
-      "logo": "https://placehold.co/600x400/dc2626/FFFFFF?text=HubSpot",
+      "logo": "https://placehold.co/600x400/ff5a5f/FFFFFF?text=HubSpot",
       "link": "https://www.hubspot.com",
       "tags": ["marketing", "sales", "automation"]
     },
@@ -288,7 +288,7 @@
       "id": "buffer-ai",
       "name": "Buffer AI",
       "description": "AI-powered social media management and content creation platform.",
-      "logo": "https://placehold.co/600x400/dc2626/FFFFFF?text=Buffer",
+      "logo": "https://placehold.co/600x400/ff5a5f/FFFFFF?text=Buffer",
       "link": "https://buffer.com",
       "tags": ["social media", "content", "scheduling"]
     },
@@ -296,7 +296,7 @@
       "id": "hootsuite-ai",
       "name": "Hootsuite Composer AI",
       "description": "AI assistant for social media content creation and optimization.",
-      "logo": "https://placehold.co/600x400/dc2626/FFFFFF?text=Hootsuite",
+      "logo": "https://placehold.co/600x400/ff5a5f/FFFFFF?text=Hootsuite",
       "link": "https://www.hootsuite.com",
       "tags": ["social media", "content", "marketing"]
     },
@@ -304,7 +304,7 @@
       "id": "surfer-seo",
       "name": "Surfer SEO",
       "description": "AI-powered SEO tool for content optimization and keyword research.",
-      "logo": "https://placehold.co/600x400/dc2626/FFFFFF?text=Surfer+SEO",
+      "logo": "https://placehold.co/600x400/ff5a5f/FFFFFF?text=Surfer+SEO",
       "link": "https://surferseo.com",
       "tags": ["SEO", "content", "optimization"]
     },
@@ -312,7 +312,7 @@
       "id": "marketmuse",
       "name": "MarketMuse",
       "description": "AI content planning and optimization platform for marketers.",
-      "logo": "https://placehold.co/600x400/dc2626/FFFFFF?text=MarketMuse",
+      "logo": "https://placehold.co/600x400/ff5a5f/FFFFFF?text=MarketMuse",
       "link": "https://www.marketmuse.com",
       "tags": ["content", "SEO", "planning"]
     },
@@ -320,7 +320,7 @@
       "id": "frase",
       "name": "Frase",
       "description": "AI-powered content research and optimization platform.",
-      "logo": "https://placehold.co/600x400/dc2626/FFFFFF?text=Frase",
+      "logo": "https://placehold.co/600x400/ff5a5f/FFFFFF?text=Frase",
       "link": "https://www.frase.io",
       "tags": ["content", "research", "SEO"]
     },
@@ -328,7 +328,7 @@
       "id": "wordtune",
       "name": "Wordtune",
       "description": "AI writing assistant that helps rewrite and refine content for better engagement.",
-      "logo": "https://placehold.co/600x400/dc2626/FFFFFF?text=Wordtune",
+      "logo": "https://placehold.co/600x400/ff5a5f/FFFFFF?text=Wordtune",
       "link": "https://www.wordtune.com",
       "tags": ["writing", "content", "editing"]
     },
@@ -336,7 +336,7 @@
       "id": "ai-ad-generator",
       "name": "AdCreative.ai",
       "description": "AI-powered ad creative generator for multiple platforms and formats.",
-      "logo": "https://placehold.co/600x400/dc2626/FFFFFF?text=AdCreative.ai",
+      "logo": "https://placehold.co/600x400/ff5a5f/FFFFFF?text=AdCreative.ai",
       "link": "https://www.adcreative.ai",
       "tags": ["advertising", "creative", "generation"]
     },
@@ -344,7 +344,7 @@
       "id": "phrasee",
       "name": "Phrasee",
       "description": "AI-powered copywriting tool specialized for email, push, and social media marketing.",
-      "logo": "https://placehold.co/600x400/dc2626/FFFFFF?text=Phrasee",
+      "logo": "https://placehold.co/600x400/ff5a5f/FFFFFF?text=Phrasee",
       "link": "https://phrasee.co",
       "tags": ["copywriting", "email", "optimization"]
     },
@@ -352,7 +352,7 @@
       "id": "ahrefs",
       "name": "Ahrefs AI",
       "description": "AI-powered SEO tool suite for keyword research, site audits, and content analysis.",
-      "logo": "https://placehold.co/600x400/dc2626/FFFFFF?text=Ahrefs",
+      "logo": "https://placehold.co/600x400/ff5a5f/FFFFFF?text=Ahrefs",
       "link": "https://ahrefs.com",
       "tags": ["SEO", "research", "analytics"]
     },
@@ -360,7 +360,7 @@
       "id": "persado",
       "name": "Persado",
       "description": "AI language generation platform for marketing messages that drive engagement and conversion.",
-      "logo": "https://placehold.co/600x400/dc2626/FFFFFF?text=Persado",
+      "logo": "https://placehold.co/600x400/ff5a5f/FFFFFF?text=Persado",
       "link": "https://www.persado.com",
       "tags": ["marketing", "language", "conversion"]
     }
@@ -370,7 +370,7 @@
       "id": "chatgpt",
       "name": "ChatGPT",
       "description": "Advanced language model for natural conversations and content generation. Perfect for writing, coding, and creative tasks.",
-      "logo": "https://placehold.co/600x400/8b5cf6/FFFFFF?text=ChatGPT",
+      "logo": "https://placehold.co/600x400/6366f1/FFFFFF?text=ChatGPT",
       "link": "https://chat.openai.com",
       "tags": ["chatbot", "writing", "coding"]
     },
@@ -378,7 +378,7 @@
       "id": "notion-ai",
       "name": "Notion AI",
       "description": "AI-powered writing assistant integrated into Notion for better note-taking, writing, and organization.",
-      "logo": "https://placehold.co/600x400/8b5cf6/FFFFFF?text=Notion+AI",
+      "logo": "https://placehold.co/600x400/6366f1/FFFFFF?text=Notion+AI",
       "link": "https://www.notion.so",
       "tags": ["writing", "productivity", "organization"]
     },
@@ -386,7 +386,7 @@
       "id": "anthropic-claude",
       "name": "Claude",
       "description": "Advanced AI assistant from Anthropic, known for its analytical capabilities and detailed responses.",
-      "logo": "https://placehold.co/600x400/8b5cf6/FFFFFF?text=Claude",
+      "logo": "https://placehold.co/600x400/6366f1/FFFFFF?text=Claude",
       "link": "https://www.anthropic.com/claude",
       "tags": ["AI", "writing", "analysis"]
     },
@@ -394,7 +394,7 @@
       "id": "grammarly",
       "name": "Grammarly AI",
       "description": "AI-powered writing assistant that helps improve grammar, style, and tone in real-time.",
-      "logo": "https://placehold.co/600x400/8b5cf6/FFFFFF?text=Grammarly",
+      "logo": "https://placehold.co/600x400/6366f1/FFFFFF?text=Grammarly",
       "link": "https://www.grammarly.com",
       "tags": ["writing", "grammar", "productivity"]
     },
@@ -402,7 +402,7 @@
       "id": "otter-ai",
       "name": "Otter.ai",
       "description": "AI meeting assistant that provides real-time transcription and meeting notes.",
-      "logo": "https://placehold.co/600x400/8b5cf6/FFFFFF?text=Otter.ai",
+      "logo": "https://placehold.co/600x400/6366f1/FFFFFF?text=Otter.ai",
       "link": "https://otter.ai",
       "tags": ["meetings", "transcription", "notes"]
     },
@@ -410,7 +410,7 @@
       "id": "tome",
       "name": "Tome",
       "description": "AI-powered storytelling and presentation platform.",
-      "logo": "https://placehold.co/600x400/8b5cf6/FFFFFF?text=Tome",
+      "logo": "https://placehold.co/600x400/6366f1/FFFFFF?text=Tome",
       "link": "https://tome.app",
       "tags": ["presentations", "storytelling", "AI"]
     },
@@ -418,7 +418,7 @@
       "id": "mem",
       "name": "Mem",
       "description": "AI-powered note-taking and knowledge management platform.",
-      "logo": "https://placehold.co/600x400/8b5cf6/FFFFFF?text=Mem",
+      "logo": "https://placehold.co/600x400/6366f1/FFFFFF?text=Mem",
       "link": "https://mem.ai",
       "tags": ["notes", "knowledge", "organization"]
     },
@@ -426,7 +426,7 @@
       "id": "taskade",
       "name": "Taskade AI",
       "description": "AI-powered project management and collaboration platform.",
-      "logo": "https://placehold.co/600x400/8b5cf6/FFFFFF?text=Taskade",
+      "logo": "https://placehold.co/600x400/6366f1/FFFFFF?text=Taskade",
       "link": "https://www.taskade.com",
       "tags": ["productivity", "collaboration", "tasks"]
     },
@@ -434,7 +434,7 @@
       "id": "fireflies",
       "name": "Fireflies.ai",
       "description": "AI meeting assistant for transcription, summarization, and analysis.",
-      "logo": "https://placehold.co/600x400/8b5cf6/FFFFFF?text=Fireflies.ai",
+      "logo": "https://placehold.co/600x400/6366f1/FFFFFF?text=Fireflies.ai",
       "link": "https://fireflies.ai",
       "tags": ["meetings", "transcription", "notes"]
     },
@@ -442,7 +442,7 @@
       "id": "motion",
       "name": "Motion",
       "description": "AI-powered calendar and time management assistant.",
-      "logo": "https://placehold.co/600x400/8b5cf6/FFFFFF?text=Motion",
+      "logo": "https://placehold.co/600x400/6366f1/FFFFFF?text=Motion",
       "link": "https://www.usemotion.com",
       "tags": ["calendar", "scheduling", "productivity"]
     },
@@ -450,7 +450,7 @@
       "id": "superhuman",
       "name": "Superhuman",
       "description": "AI-powered email client for faster email management.",
-      "logo": "https://placehold.co/600x400/8b5cf6/FFFFFF?text=Superhuman",
+      "logo": "https://placehold.co/600x400/6366f1/FFFFFF?text=Superhuman",
       "link": "https://superhuman.com",
       "tags": ["email", "productivity", "AI"]
     },
@@ -458,7 +458,7 @@
       "id": "coda-ai",
       "name": "Coda AI",
       "description": "AI-powered document platform that combines the best of docs and spreadsheets.",
-      "logo": "https://placehold.co/600x400/8b5cf6/FFFFFF?text=Coda+AI",
+      "logo": "https://placehold.co/600x400/6366f1/FFFFFF?text=Coda+AI",
       "link": "https://coda.io",
       "tags": ["documents", "collaboration", "productivity"]
     },
@@ -466,7 +466,7 @@
       "id": "reclaim",
       "name": "Reclaim.ai",
       "description": "AI scheduling tool that automatically finds the best time for tasks and meetings.",
-      "logo": "https://placehold.co/600x400/8b5cf6/FFFFFF?text=Reclaim.ai",
+      "logo": "https://placehold.co/600x400/6366f1/FFFFFF?text=Reclaim.ai",
       "link": "https://reclaim.ai",
       "tags": ["scheduling", "calendar", "time management"]
     },
@@ -474,7 +474,7 @@
       "id": "tldraw",
       "name": "tldraw AI",
       "description": "AI-powered drawing and diagramming tool that converts sketches to diagrams.",
-      "logo": "https://placehold.co/600x400/8b5cf6/FFFFFF?text=tldraw+AI",
+      "logo": "https://placehold.co/600x400/6366f1/FFFFFF?text=tldraw+AI",
       "link": "https://tldraw.com",
       "tags": ["drawing", "diagrams", "sketching"]
     },
@@ -482,7 +482,7 @@
       "id": "krisp",
       "name": "Krisp",
       "description": "AI-powered noise cancellation app for clear audio during calls and recordings.",
-      "logo": "https://placehold.co/600x400/8b5cf6/FFFFFF?text=Krisp",
+      "logo": "https://placehold.co/600x400/6366f1/FFFFFF?text=Krisp",
       "link": "https://krisp.ai",
       "tags": ["audio", "meetings", "noise cancellation"]
     }
